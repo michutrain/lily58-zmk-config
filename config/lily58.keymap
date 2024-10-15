@@ -43,8 +43,8 @@
 &trans      &trans            &trans             &trans             &trans        &trans                            &trans         &trans         &trans        &trans         &trans         &trans
 &trans      &trans            &trans             &trans             &trans        &trans                            &trans         &kp PAGE_UP    &kp HOME      &kp UP_ARROW   &kp END        &trans
 &trans      &trans            &trans             &trans             &trans        &trans                            &trans         &kp PAGE_DOWN  &kp LEFT      &kp DOWN       &kp RIGHT      &trans
-&trans      &trans            &trans             &trans             &trans        &trans          &trans    &trans  &trans         &kp INS        &trans        &trans         trans      &trans
-                                                 &trans             &trans        &trans          &trans    &trans  &trans         &trans         &trans
+&trans      &trans            &trans             &trans             &trans        &trans      &trans    &trans      &trans         &kp INS        &trans        &trans         &trans         &trans
+                                                 &trans             &trans        &trans      &trans    &trans      &trans         &trans         &trans
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
