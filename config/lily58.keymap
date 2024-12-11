@@ -42,8 +42,8 @@
             bindings = <
 &trans      &trans            &trans             &trans             &trans        &trans                            &trans     &trans    &trans     &trans     &trans     &trans
 &trans      &trans            &trans             &trans             &trans        &trans                            &trans     &kp U     &kp I      &kp O      &kp P      &trans
-&trans      &trans            &trans             &trans             &trans        &trans                            &trans     &kp J     &kp K      &kp L      &kp ;      &trans
-&trans      &trans            &trans             &trans             &trans        &trans      &trans    &trans      &trans     &kp M    &trans     &trans     &trans      &trans
+&trans      &trans            &trans             &trans             &trans        &trans                            &trans     &kp J     &kp K      &kp L      &kp SEMI   &trans
+&trans      &trans            &trans             &trans             &trans        &trans      &trans    &trans      &trans     &kp M     &trans     &trans     &trans     &trans
                                                  &trans             &trans        &trans      &trans    &trans      &trans     &trans    &trans
             >;
 
